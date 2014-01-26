@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="libs/google-http/google-http-client-1.17.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/robospice-google-http-client/commons-io-1.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/robospice-google-http-client/commons-lang3-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/robospice-google-http-client/google-http-client-android-1.17.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/robospice-google-http-client/google-http-client-gson-1.17.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/robospice-google-http-client/google-http-client-jackson-1.17.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/robospice-google-http-client/google-http-client-jackson2-1.17.0-rc.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/robospice-google-http-client/gson-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/robospice-google-http-client/jackson-core-2.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/robospice-google-http-client/jackson-core-asl-1.9.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/robospice-google-http-client/jsr305-1.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/robospice-google-http-client/robospice-1.4.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/robospice-google-http-client/robospice-cache-1.4.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/robospice-google-http-client/robospice-google-http-client-1.4.11.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
